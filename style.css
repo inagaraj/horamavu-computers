@@ -1,0 +1,52 @@
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+/*  background-image:url('./public/assets/image/service.jpg');
+*/  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+
+.headqoutes{
+
+   /* position: relative;
+    bottom: 130px;
+*/    color: white;
+position: relative;
+    top: 200px;
+    left: 50%;
+    box-shadow: 10px 10px 10px 10px rgba(00,00,00,0.5);
+
+}
+
+.queriesLink
+{
+	top: 176px;
+    left: 120%;
+    position: relative;
+    /*bottom: 125px;*/
+}
+.headerImg
+{
+
+    width: 100%;
+    height: 100%;
+
+}
+.contactSection{
+	margin-top: 0px;
+}
+.socialMedia{
+	padding: 3px;
+}
+
+.locImg
+{
+	width: 100%;
+	margin-bottom: 5%;
+}
+
